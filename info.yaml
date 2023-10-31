@@ -23,7 +23,7 @@ yaml_version: 4
 documentation: 
   author:       "Tyler Sheaves"      # Your name
   title:        "Tiny Tunable DP-TDC"      # Project title
-  language:     "System Verilog" # other examples include Verilog, Amaranth, VHDL, etc
+  language:     "Verilog" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "Dual-polarity Tunable TDC"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
